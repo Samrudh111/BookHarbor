@@ -1,66 +1,80 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# ![favicon1](https://github.com/user-attachments/assets/3636e4ac-18de-42b2-8fbc-0e43d496e482) Bookharbor
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![Bookharbor](https://github.com/user-attachments/assets/a899e0c7-7f51-47e5-908b-2f809ec432bb)
 
-## About Laravel
+**Bookharbor** is a dynamic online marketplace that revolutionizes the way book lovers buy and sell their cherished reads. With a vast collection spanning various genres, authors, and editions, Bookharbor offers a treasure trove of literary delights waiting to be explored.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 🛒 A marketplace for book enthusiasts: explore, purchase, and sell books with ease:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+#### 🏠 Home Page
+![Home Page](https://github.com/user-attachments/assets/33d37487-4798-4b1d-8d34-ed8fccaf5aa4)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+#### 📚 Our Books Page
+![Our Books Page](https://github.com/user-attachments/assets/3f0e90b6-d86a-4f34-bf09-f5f472076c37)
 
-## Learning Laravel
+#### 📖 Listed Books Page
+![Listed Books Page](https://github.com/user-attachments/assets/ec769f32-511f-4d67-a2ad-d0f0e5874ef8)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+#### ℹ️ About Us Page
+![About Us Page](https://github.com/user-attachments/assets/6d40eaf0-71e0-453d-a22a-c1ce9526747d)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+#### 📞 Contact Us Page
+![Contact Us Page](https://github.com/user-attachments/assets/df0a35d7-b7b6-40a1-826d-ee8e197e255c)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+#### ➕ Add Listing Books Page
+![Add Listing Books Page](https://github.com/user-attachments/assets/9aea1b82-df4e-45e2-887d-2580270dd534)
 
-## Laravel Sponsors
+#### 👤 User Profile Page
+![User Profile Page](https://github.com/user-attachments/assets/27c395ec-5b17-429f-9b60-50edc0035373)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+#### 📦 Orders Page
+![Orders Page](https://github.com/user-attachments/assets/98584552-a19d-48ef-8791-e72e0ad76128)
 
-### Premium Partners
+#### 🛒 Cart Page
+![Cart Page](https://github.com/user-attachments/assets/be23cfd1-04b7-43f5-8626-5ffeb1adafeb)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+#### 📄 Book Details Page
+![Book Details Page](https://github.com/user-attachments/assets/91bc6fce-ad8b-4331-93ff-2ff053bfdd43)
 
-## Contributing
+#### 🚚 Shipping Information Page
+![Shipping Information Page](https://github.com/user-attachments/assets/740f00e2-3229-4e04-807c-15cc7d1109f4)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+#### 💳 Checkout Page
+![Checkout Page](https://github.com/user-attachments/assets/2000bf88-47a2-412d-9ab5-831df3b28790)
 
-## Code of Conduct
+#### 📦 Order Tracking Page
+![Order Tracking Page](https://github.com/user-attachments/assets/8094f154-75e3-44c5-857a-e4f527ba1886)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+#### 📊 Admin Dashboard
+![Admin Dashboard](https://github.com/user-attachments/assets/0277d89c-d868-4ec6-b0b0-fcaf3cb6598e)
 
-## Security Vulnerabilities
+#### 🎫 Coupons Page
+![Coupons Page](https://github.com/user-attachments/assets/f30d79e7-8b42-42fe-b1bf-015f6accd70d)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+#### 📚 Admin Books Page
+![Admin Books Page](https://github.com/user-attachments/assets/5b1b9a43-437a-4fdc-af8a-f69c32ff4916)
 
-## License
+#### 📦 Admin Orders Page
+![Admin Orders Page](https://github.com/user-attachments/assets/7f696318-e2ac-43f0-9c09-f69a81ea7f85)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 🚀 How to use this?
+
+1. **First, download the zip file onto your system and extract it into a new folder.**
+2. **Open a command prompt from that folder.**
+3. **Type the following command to update Composer:**
+   ```bash
+   composer update
+4. **Once Composer is up to date, run the migration command:**
+   ```bash
+   php artisan migrate
+5. **Seed the database by typing:**
+   ```bash
+   php artisan db:seed
+6. **Start the development server with the command:**
+   ```bash
+   php artisan serve
+7. **After executing these commands, a URL will be provided in the command prompt. Copy and paste this URL into your browser.**
+
+   **Note: If the images are not rendering properly, execute the following command:**
+   ```bash
+   php artisan storage:link
