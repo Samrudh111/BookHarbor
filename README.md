@@ -1,6 +1,7 @@
 # ![favicon1](https://github.com/user-attachments/assets/3636e4ac-18de-42b2-8fbc-0e43d496e482) Bookharbor
 
 ![Bookharbor](https://github.com/user-attachments/assets/a899e0c7-7f51-47e5-908b-2f809ec432bb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Bookharbor** is a dynamic online marketplace that revolutionizes the way book lovers buy and sell their cherished reads. With a vast collection spanning various genres, authors, and editions, Bookharbor offers a treasure trove of literary delights waiting to be explored.
 
