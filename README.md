@@ -79,3 +79,10 @@
    **Note: If the images are not rendering properly, execute the following command:**
    ```bash
    php artisan storage:link
+
+## Contributors
+
+1. **Sohail Shaikh**
+2. **Shrisudarshan Sreenath**
+3. **Samrudh Surendra**
+4. **Vijaya Sankara Naga Sai Akarsh Jana**
